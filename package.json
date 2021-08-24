@@ -1,7 +1,8 @@
 {
-  "name": "react-slide-checkbox",
+  "name": "@bicsz/react-slide-checkbox",
   "version": "0.1.0",
-  "private": true,
+  "bicsz": "registry=https://npm.pkg.github.com",
+  "private": false,
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
@@ -148,5 +149,23 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bicsz/react-slide-checkbox.git"
+  },
+  "keywords": [
+    "react",
+    "checkbox",
+    "ui"
+  ],
+  "author": "Bicsz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bicsz/react-slide-checkbox/issues"
+  },
+  "homepage": "https://github.com/Bicsz/react-slide-checkbox#readme"
 }
